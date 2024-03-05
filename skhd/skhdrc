@@ -1,0 +1,11 @@
+ctrl + alt - left    : yabai -m window --grid 1:2:0:0:1:1
+ctrl + alt - right   : yabai -m window --grid 1:2:50:0:2:1
+ctrl + alt - up      : yabai -m window --grid 1:1:0:0:1:1
+
+ctrl - left            : yabai -m space --focus prev
+ctrl - right           : yabai -m space --focus next
+ctrl + alt - n         : yabai -m space --create
+ctrl + alt - d         : yabai -m space --destroy
+
+cmd + alt + ctrl - left  : yabai -m window --space prev --focus
+cmd + alt + ctrl - right : yabai -m window --space next --focus
