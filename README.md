@@ -5,6 +5,7 @@ dotfiles for a macOS setup I call "sky's the limit".
 - Desktop environment: Aqua
 - Window manager: [yabai](https://github.com/koekeishiya/yabai) + [skhd](https://github.com/koekeishiya/skhd?tab=readme-ov-file) + [Raycast](https://www.raycast.com/)
 - [Wallpaper](https://unsplash.com/photos/a-boat-in-a-body-of-water-near-a-large-building-LFtMKaK9usE)
+- Color scheme: [Gruvbox Material Dark Soft](https://github.com/sainnhe/gruvbox-material?tab=readme-ov-file)
 - Terminal: [kitty](https://github.com/kovidgoyal/kitty)
 - Browser: [Arc](https://arc.net/)
 - Editor: [Visual Studio Code](https://github.com/microsoft/vscode)
